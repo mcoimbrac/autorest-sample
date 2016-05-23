@@ -1,0 +1,22 @@
+{
+  "name": "autorest-sample",
+  "version": "1.0.0",
+  "description": "sampling azure/autorest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcoimbrac/autorest-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcoimbrac/autorest-sample/issues"
+  },
+  "homepage": "https://github.com/mcoimbrac/autorest-sample#readme",
+  "dependencies": {
+    "ms-rest": "^1.14.2"
+  }
+}
